@@ -1,0 +1,47 @@
+/* Header, footer */
+
+header, footer {
+  background-color:#44ffc7;
+}
+/*Menu*/
+#navig{
+	padding:10px 0px 5px 0px;
+	list-style-type:none;
+	font-family:arvo;
+	font-size:22px;
+	text-align:center;
+	text-transform:uppercase;
+}
+#navig li{
+	display:inline;
+	margin-right:20px;
+}
+#navig a{
+	text-decoration:none;
+	color:#00db99;
+	font-weight:bold;
+	display:inline-block;
+}
+a:hover{
+	border-radius:1px 10px;
+	background-color:#00af7b;
+	color:#009367;
+}
+h1,h2{
+	text-align:center;
+}
+.www{
+	color:#42f46e;
+}
+.qqq{
+	color:#00bbff;
+}
+.rrr{
+	color:#faff00;
+}
+h2{
+	color:#0000000;
+}
+.col-md-6{
+	color:#ff87e7;
+}
